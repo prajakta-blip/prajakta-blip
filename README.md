@@ -34,7 +34,7 @@
   <b>DKTE Society’s Textile & Engineering Institute, Ichalkaranji</b>. 
   My primary <b>focus</b> is on building modern, scalable, and user-friendly web applications using both 
   <b>frontend</b> and <b>backend</b> technologies. I enjoy working across the complete development lifecycle — 
-  from designing clean user interfaces to developing robust server-side logic and databases. 
+  from designing clean user interfaces to developing robust server-side logic and databases.
 
   I actively work with <b>C</b>, <b>Java</b>, <b>JavaScript</b>, <b>Python</b>, <b>HTML</b>, <b>CSS</b>, 
   <b>Node.js</b>, <b>MySQL</b>, and data-handling libraries like <b>Pandas</b> and <b>Seaborn</b>. 
